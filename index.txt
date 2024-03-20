@@ -241,8 +241,8 @@ Company
 Find a location nearest you. See
 Our Stores
 
-+391 (0)35 2568 4593
-hello@domain.com
++254 112440526
+hello@look.com
 
 Useful links
 
@@ -267,7 +267,7 @@ placeholder = Enter your email address
 
 Subscribe
 
-&copy; 2022 codewithsadee
+&copy; 2024 coded by LOOK
 
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
